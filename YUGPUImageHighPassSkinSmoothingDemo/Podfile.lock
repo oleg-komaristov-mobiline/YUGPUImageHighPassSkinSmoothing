@@ -1,6 +1,6 @@
 PODS:
   - GPUImage (0.1.7)
-  - YUGPUImageHighPassSkinSmoothing (1.3):
+  - YUGPUImageHighPassSkinSmoothing (1.4):
     - GPUImage
 
 DEPENDENCIES:
@@ -11,7 +11,7 @@ EXTERNAL SOURCES:
   GPUImage:
     :git: https://github.com/BradLarson/GPUImage.git
   YUGPUImageHighPassSkinSmoothing:
-    :path: ../
+    :path: "../"
 
 CHECKOUT OPTIONS:
   GPUImage:
@@ -20,8 +20,8 @@ CHECKOUT OPTIONS:
 
 SPEC CHECKSUMS:
   GPUImage: bd7e201b9aa91e85f401ed7a6d9867a07a404693
-  YUGPUImageHighPassSkinSmoothing: 80bfbb6ff0013a36aa2045579b4a745b05ae6993
+  YUGPUImageHighPassSkinSmoothing: d7b396f4505dfca81871c804da560ae71c0e854d
 
-PODFILE CHECKSUM: 56cfbcec157efd5278a15dc8175466cfbf2d3827
+PODFILE CHECKSUM: 47177d627143d1376b17543d58cf2e29fdf0d8f9
 
-COCOAPODS: 1.1.1
+COCOAPODS: 1.15.2
